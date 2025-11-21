@@ -1,3 +1,42 @@
+# Un prototype de campagne d’annotation sensible, engagée, réflexive et critique #
+
+L’ensemble de ces réflexions, lectures, discussions ainsi que l’étude de notre cas peut nous conduire vers d’autres pistes de réflexions. Il nous semble que cet ensemble permet tout de même de dégager des bases, à peu près solides, pour construire des campagnes d’annotation critiques et réflexives. Je pense notamment à la campagne d’annotation que je vais mener pour le corpus que j’ai constitué dans le cadre de ma thèse. J’aimerais [Ariane] mettre en œuvre ce qu’on a fait avec Luisa mais de manière plus réfléchie en amont (cette campagne s’est construite au fur et à mesure avec Luisa, nous n’avions pas imaginé tout cela au début), rigoureuse et opérationnelle. Se dessine alors un prototype de campagne d’annotation, qui n’est pas généralisable (car il faut l’appliquer à chaque sujet sensible), mais dont les trois recommandations que nous avons mises en avant durant notre présentation sont à avoir en tête.
+
+Pour plusiers d'information, vous pouvez contacter Ariane [arobert(@)unisa.it].
+
+Le corpus 3dSeTwitch est constitué de données issues de Twitch et on s’intéresse aux discours de haine sexistes dans une perspective critique. Une campagne d’annotation à 6 voire 8 mains dont les annotateurices doivent répondre à trois impératifs :
+* Une posture critique féministe : par une formation académique (dans le meilleur des cas) ou militante ;
+* Une culture web et du gaming : par des expériences personnelles ;
+* Une expérience d’annotation.
+La campagne prendra la forme qui suit (à la fois pour prendre soin des annotateurices, mais aussi pour apporter critique et réflexivité à l’annotation) :
+* En amont et seule :
+    *   Pré-analyses :
+          *       (i) dessiner une cartographie des discours sexistes ;
+          *       (ii) établir une grille de pré-analyse ;
+          *       (iii) extraire du corpus les passages de discours sexiste et faire une pré-analyse.
+    *   Constitution du matériel :
+          *       (i) rédiger un schéma et guide d’annotation à partir de la cartographie et des pré-analyses (rigoureux mais large) ;
+          *       (ii) rédiger un guide d’analyse ;
+          *       (iii) préparer le matériel d’annotation.
+* Une première annotation :
+    *    Première réunion :
+        *      (i) se rencontrer toustes et expliquer l’organisation (calendrier, discord, règles) ;
+        *      (ii) donner des indications techniques et présenter le schéma d’annotation ;
+        *      (iii) se poser sur la réflexivité, la critique et le travail émotionnel.
+    *   Annotation :
+        *     (i) prendre connaissance du matériel ;
+        *     (ii) annoter.
+    *   Deuxième réunion :
+        *     (i) mesurer l’accord inter-annotateurice ;
+        *     (ii) discuter du schéma (doutes, désaccords, ajouts) ;
+        *     (iii) mettre en place un nouveau schéma d’annotation.
+* Une deuxième annotation : annotation puis troisième réunion sous le modèle de la deuxième.
+* Une éventuelle troisième annotation : même idée.
+* Une réunion post-annotation : retour réflexif sur la campagne d’annotation (comme ça va ? critiques et remarques à faire ? qu’est-ce qu’on en retient ?)
+
+Toute la campagne sera ponctuée d’éventuelles réunions (à un ou plusieurs) et de discussions modérées sur un serveur discord et guidée par un carnet de bord collectif et individuels.
+
+
 # References #
 
 * Al Kuwatly, H., Wich, M., & Groh, G. (2020). Identifying and measuring annotator bias based on annotators’ demographic characteristics. Dans Proceedings of the fourth workshop on online abuse and harms, 184-190, en ligne. Association for Computational Linguistics.
