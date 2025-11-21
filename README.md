@@ -4,37 +4,7 @@ L’ensemble de ces réflexions, lectures, discussions ainsi que l’étude de n
 
 Pour plusiers d'information, vous pouvez contacter Ariane [arobert(@)unisa.it].
 
-Le corpus 3dSeTwitch est constitué de données issues de Twitch et on s’intéresse aux discours de haine sexistes dans une perspective critique. Une campagne d’annotation à 6 voire 8 mains dont les annotateurices doivent répondre à trois impératifs :
-* Une posture critique féministe : par une formation académique (dans le meilleur des cas) ou militante ;
-* Une culture web et du gaming : par des expériences personnelles ;
-* Une expérience d’annotation.
-La campagne prendra la forme qui suit (à la fois pour prendre soin des annotateurices, mais aussi pour apporter critique et réflexivité à l’annotation) :
-* En amont et seule :
-    *   Pré-analyses :
-          *       (i) dessiner une cartographie des discours sexistes ;
-          *       (ii) établir une grille de pré-analyse ;
-          *       (iii) extraire du corpus les passages de discours sexiste et faire une pré-analyse.
-    *   Constitution du matériel :
-          *       (i) rédiger un schéma et guide d’annotation à partir de la cartographie et des pré-analyses (rigoureux mais large) ;
-          *       (ii) rédiger un guide d’analyse ;
-          *       (iii) préparer le matériel d’annotation.
-* Une première annotation :
-    *    Première réunion :
-        *      (i) se rencontrer toustes et expliquer l’organisation (calendrier, discord, règles) ;
-        *      (ii) donner des indications techniques et présenter le schéma d’annotation ;
-        *      (iii) se poser sur la réflexivité, la critique et le travail émotionnel.
-    *   Annotation :
-        *     (i) prendre connaissance du matériel ;
-        *     (ii) annoter.
-    *   Deuxième réunion :
-        *     (i) mesurer l’accord inter-annotateurice ;
-        *     (ii) discuter du schéma (doutes, désaccords, ajouts) ;
-        *     (iii) mettre en place un nouveau schéma d’annotation.
-* Une deuxième annotation : annotation puis troisième réunion sous le modèle de la deuxième.
-* Une éventuelle troisième annotation : même idée.
-* Une réunion post-annotation : retour réflexif sur la campagne d’annotation (comme ça va ? critiques et remarques à faire ? qu’est-ce qu’on en retient ?)
-
-Toute la campagne sera ponctuée d’éventuelles réunions (à un ou plusieurs) et de discussions modérées sur un serveur discord et guidée par un carnet de bord collectif et individuels.
+Le corpus 3dSeTwitch est constitué de données issues de Twitch et on s’intéresse aux discours de haine sexistes dans une perspective critique. Une campagne d’annotation à 6 voire 8 mains dont les annotateurices doivent répondre à trois impératifs
 
 
 # References #
@@ -44,7 +14,7 @@ Toute la campagne sera ponctuée d’éventuelles réunions (à un ou plusieurs)
 * Biester, L., Sharma, V., Kazemi, A., Deng, N., Wilson, S., & Mihalcea, R. (2022). Analyzing the effects of annotator gender across NLP tasks. Dans Proceedings of the 1st Workshop on Perspectivist Approaches to NLP@ LREC2022, 10-19, Marseilles : France. European Language Resources Association.
 * Costa-jussà, M. R. (2019). An analysis of gender bias studies in natural language processing. Nature Machine Intelligence, 1(11), 495-496.
 * Curry, A. C., Abercrombie, G., & Talat, Z. (2024). Subjective isms? On the Danger of Conflating Hate and Offence in Abusive Language Detection. Dans Proceedings of the 8th Workshop on Online Abuse and Harms (WOAH 2024), 275-282, Mexico : Mexique. Association for Computational Linguistics.
-* Devinney, H., Björklund, J., & Björklund, H. (2022). Theories of “gender” in nlp bias research. Dans Proceedings of the 2022 ACM conference on fairness, accountability, and transparency, 2083-2102, New York : États-Unis. Association for Computing Machinery.
+* Devinney, H., Björklund, J., & Björklund, H. (2022). Theories of “gender” in nlp bias research. Dans Proceedings of the 2022 ACM conference on fairness, accountability, and transparency, 2083-2102, New York : États-Unis. Association for Computing Machine.ry.
 * DRAINE (2025, mai). Discours de haine et émotions : Enjeux idéologiques et épistémologiques [colloque]. Deuxième édition du colloque DRAINE, Université Grenoble Alpes, France.  https://draine.sciencesconf.org/
 * Elsafoury, F., & Abercrombie, G. (2023). On the origins of bias in nlp through the lens of the jim code. arXiv preprint arXiv:2305.09281.
 * Excell, E., & Al Moubayed, N. (2021). Towards equal gender representation in the annotations of toxic language detection. Dans Proceedings of the 3rd Workshop on Gender Bias in Natural Language Processing, 55-65, en ligne. Association for Computational Linguistics.
