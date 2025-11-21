@@ -4,7 +4,7 @@ L’ensemble de ces réflexions, lectures, discussions ainsi que l’étude de n
 
 Pour plusiers d'information, vous pouvez contacter Ariane [arobert(@)unisa.it].
 
-Le corpus 3dSeTwitch est constitué de données issues de Twitch et on s’intéresse aux discours de haine sexistes dans une perspective critique. Une campagne d’annotation à 6 voire 8 mains dont les annotateurices doivent répondre à trois impératifs
+Le corpus 3dSeTwitch est constitué de données issues de Twitch et on s’intéresse aux discours de haine sexistes dans une perspective critique. 
 
 
 # References #
