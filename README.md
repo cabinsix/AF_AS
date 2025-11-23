@@ -1,15 +1,49 @@
+# Une campagne d'annotation réflexive et critique #
+
+Après la constitution du corpus, nous avons travaillé à l’analyse du corpus. Pour que l'analyse des données soient la plus critique et réflexive possible, nous retenons trois recommandations de la littérature :
+  (i) mobiliser des annotateur·rices formé·es aux approches féministes critiques ;
+  (ii) utiliser une classification large mais précisément définie ;
+  (iii) instaurer un cadre de discussion continue entre les personnes qui annotent.
+
+Voilà les principes qui nous ont guidés durant la campagne d'annotation :
+* Reconnaître que notre approche est profondément située. 
+* Notre schéma d’annotation s’est construit de manière progressive et réflexive. Il a été continuellement remanié pour devenir le plus sensible possible à nos données : d’abord nourri par nos expériences sur TikTok, puis ajusté à mesure que nous approfondissions les analyses des discours présents dans le corpus (discours sexiste, contre-discours féministe, contre-discours anti-féministe). 
+* Notre travail s’est inscrit dans un contexte interdisciplinaire et interculturel qui a rendu indispensables des discussions régulières, tant formelles qu’informelles, avec des collègues mais aussi entre nous, en tant qu’amies et collaboratrices.
+
+Voici un plan que nous dégageons de campagne d'annotation critique et réflexive :
+1. Phase 1 :  première approche des données.
+   (i) discussion pour approcher la cartographie des discours sexistes et nos données ;
+   (ii) pré-annotation chacune de notre côté et analyse de données du corpus de manière libre, avec la cartographie comme guide ;
+   (iii) confrontation de nos analyses par la discussion écrite et orale.
+2. Phase 2 : phase opérationnelle.
+   (i) reprise de la classification pour en faire un schéma opérationnel (de manière plus explicite et descriptive : quelles catégories ont été mobilisées durant la première phase et comment peut-on les définir clairement pour capturer la diversité des pratiques discursives, sans que cela soit trop rigide afin de ne pas limiter l’interprétation des données) ;
+   (ii) annotation guidée chacune de notre côté -> mesure de l'accord interannotatrice ;
+   (iii) rencontre à nouveau pour discuter des problèmes rencontrés et affiner le schéma ;
+   (iv) annotation -> mesure de l'accors interannotatrice ;
+   (v) discussion pour clore.
+
 # Un prototype de campagne d’annotation sensible, engagée, réflexive et critique #
 
-Au cours de la première phase, nous avons mené des discussions préalables à l’annotation afin de clarifier la classification et de réfléchir aux enjeux liés à l’analyse d’une communauté dont nous ne faisons pas partie, ce qui nous a conduites à adopter une posture nethnographique. L’annotation libre a rapidement révélé plusieurs désaccords interprétatifs, notamment autour de formes discursives ambivalentes oscillant entre sexisme et riposte, mettant en lumière nos ancrages théoriques distincts. Pour dépasser ces divergences, nous avons effectué des lectures critiques et établi des définitions communes du sexisme et de la riposte, adaptées à la spécificité du corpus AF/AS. En confrontant ensuite nos analyses discursives, nous avons constaté des interprétations différentes (par exemple autour de l’émoji tasse) que nous avons décidé de conserver simultanément en raison de leur complémentarité analytique. Nous avons également observé que la classification du discours sexiste seule ne suffisait pas à saisir les dynamiques entre discours sexistes, contre-discours féministes et contre-discours antiféministes, ce qui a nourri l’élaboration d’un premier schéma d’annotation. 
+L’ensemble de ces réflexions, lectures, discussions ainsi que l’étude de notre cas nous permet de dégager des bases pour construire des campagnes d’annotation critiques et réflexives, sans en faire un outil normatif. Nous avons rédigé une campagne d'annotation à partir de notre expérience sur AF/AS afin d'annoter un corpus de données sexistes issues de Twitch, le corpus 3dSeTwitch, qui permettrait de mettre en œuvre ce que nous avons fait mais de manière plus réfléchie en amont, rigoureuse et opérationnelle. Se dessine alors un prototype de campagne d’annotation, qui n’est pas généralisable (car il faut l’appliquer à chaque sujet sensible), mais dont les trois recommandations que nous avons mises en avant durant notre présentation sont à avoir en tête.
 
-Durant la deuxième phase, l’application de ce schéma nous a amenées à une révision approfondie visant à réduire les ambiguïtés, préciser ou supprimer certaines catégories et en introduire de nouvelles telles que la dévirilisation. Enfin, après une ultime confrontation de nos annotations, nous avons choisi de conserver un schéma suffisamment détaillé sans être trop rigide, constituant ainsi un protocole élargi et adaptable pour de futures recherches.
+Le corpus 3dSeTwitch est constitué de données issues de Twitch et on s’intéresse aux discours de haine sexistes dans une perspective critique. Une campagne d’annotation à 6 voire 8 mains dont les annotateurices doivent répondre à trois impératifs :
+* Une posture critique féministe : par une formation académique (dans le meilleur des cas) ou militante ;
+* Une culture web et du gaming : par des expériences personnelles ;
+* Une expérience d’annotation.
+La campagne prendra la forme qui suit (à la fois pour prendre soin des annotateurices, mais aussi pour apporter critique et réflexivité à l’annotation) :
+1. En amont et seule :
+  a. Pré-analyses : (i) dessiner une cartographie des discours sexistes ; (ii) établir une grille de pré-analyse ; (iii) extraire du corpus les passages de discours sexiste et faire une pré-analyse.
+  b. Constitution du matériel : (i) rédiger un schéma et guide d’annotation à partir de la cartographie et des pré-analyses (rigoureux mais large) ; (ii) rédiger un guide d’analyse ; (iii) préparer le matériel d’annotation.
+2. Une première annotation :
+  a. Première réunion : (i) se rencontrer toustes et expliquer l’organisation (calendrier, discord, règles) ; (ii) donner des indications techniques et présenter le schéma d’annotation ; (iiif) se poser sur la réflexivité, la critique et le travail émotionnel.
+  b. Annotation : (i) prendre connaissance du matériel ; (ii) annoter.
+  c. Deuxième réunion : (i) mesurer l’accord inter-annotateurice ; (ii) discuter du schéma (doutes, désaccords, ajouts) ; (iii) mettre en place un nouveau schéma d’annotation.
+  d. Une deuxième annotation : annotation puis troisième réunion sous le modèle de la deuxième.
+  e. Une éventuelle troisième annotation : même idée.
+  f. Une réunion post-annotation : retour réflexif sur la campagne d’annotation (comme ça va ? critiques et remarques à faire ? qu’est-ce qu’on en retient ?)
+  g. Toute la campagne sera ponctuée d’éventuelles réunions (à un ou plusieurs) et de discussions modérées sur un serveur discord et guidée par un carnet de bord collectif et individuels.
 
-L’ensemble de ces réflexions, lectures, discussions ainsi que l’étude de notre cas peut nous conduire vers d’autres pistes de réflexions. Il nous semble que cet ensemble permet tout de même de dégager des bases, à peu près solides, pour construire des campagnes d’annotation critiques et réflexives. Je pense notamment à la campagne d’annotation que je vais mener pour le corpus que j’ai constitué dans le cadre de ma thèse. J’aimerais [Ariane] mettre en œuvre ce qu’on a fait avec Luisa mais de manière plus réfléchie en amont (cette campagne s’est construite au fur et à mesure avec Luisa, nous n’avions pas imaginé tout cela au début), rigoureuse et opérationnelle. Se dessine alors un prototype de campagne d’annotation, qui n’est pas généralisable (car il faut l’appliquer à chaque sujet sensible), mais dont les trois recommandations que nous avons mises en avant durant notre présentation sont à avoir en tête.
-
-Pour plusiers d'information, vous pouvez contacter Ariane [arobert(@)unisa.it].
-
-Le corpus 3dSeTwitch est constitué de données issues de Twitch et on s’intéresse aux discours de haine sexistes dans une perspective critique. 
-
+Pour plus d'informations, vous pouvez contacter Ariane [arobert(@)unisa.it].
 
 # References #
 
