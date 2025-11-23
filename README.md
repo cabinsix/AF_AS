@@ -1,9 +1,9 @@
-# Une campagne d'annotation réflexive et critique #
+# Une campagne d'annotation réflexive et critique pour AF/AS #
 
 Après la constitution du corpus, nous avons travaillé à l’analyse du corpus. Pour que l'analyse des données soient la plus critique et réflexive possible, nous retenons trois recommandations de la littérature :
-  (i) mobiliser des annotateur·rices formé·es aux approches féministes critiques ;
-  (ii) utiliser une classification large mais précisément définie ;
-  (iii) instaurer un cadre de discussion continue entre les personnes qui annotent.
+1. mobiliser des annotateur·rices formé·es aux approches féministes critiques ;
+2. utiliser une classification large mais précisément définie ;
+3. instaurer un cadre de discussion continue entre les personnes qui annotent.
 
 Voilà les principes qui nous ont guidés durant la campagne d'annotation :
 * Reconnaître que notre approche est profondément située. 
@@ -12,9 +12,9 @@ Voilà les principes qui nous ont guidés durant la campagne d'annotation :
 
 Voici un plan que nous dégageons de campagne d'annotation critique et réflexive :
 1. Phase 1 :  première approche des données.
-   (i) discussion pour approcher la cartographie des discours sexistes et nos données ;
-   (ii) pré-annotation chacune de notre côté et analyse de données du corpus de manière libre, avec la cartographie comme guide ;
-   (iii) confrontation de nos analyses par la discussion écrite et orale.
+(i) discussion pour approcher la cartographie des discours sexistes et nos données ;
+(ii) pré-annotation chacune de notre côté et analyse de données du corpus de manière libre, avec la cartographie comme guide ;
+(iii) confrontation de nos analyses par la discussion écrite et orale.
 2. Phase 2 : phase opérationnelle.
    (i) reprise de la classification pour en faire un schéma opérationnel (de manière plus explicite et descriptive : quelles catégories ont été mobilisées durant la première phase et comment peut-on les définir clairement pour capturer la diversité des pratiques discursives, sans que cela soit trop rigide afin de ne pas limiter l’interprétation des données) ;
    (ii) annotation guidée chacune de notre côté -> mesure de l'accord interannotatrice ;
@@ -30,18 +30,19 @@ Le corpus 3dSeTwitch est constitué de données issues de Twitch et on s’inté
 * Une posture critique féministe : par une formation académique (dans le meilleur des cas) ou militante ;
 * Une culture web et du gaming : par des expériences personnelles ;
 * Une expérience d’annotation.
+
 La campagne prendra la forme qui suit (à la fois pour prendre soin des annotateurices, mais aussi pour apporter critique et réflexivité à l’annotation) :
 1. En amont et seule :
-  a. Pré-analyses : (i) dessiner une cartographie des discours sexistes ; (ii) établir une grille de pré-analyse ; (iii) extraire du corpus les passages de discours sexiste et faire une pré-analyse.
-  b. Constitution du matériel : (i) rédiger un schéma et guide d’annotation à partir de la cartographie et des pré-analyses (rigoureux mais large) ; (ii) rédiger un guide d’analyse ; (iii) préparer le matériel d’annotation.
+* Pré-analyses : (i) dessiner une cartographie des discours sexistes ; (ii) établir une grille de pré-analyse ; (iii) extraire du corpus les passages de discours sexiste et faire une pré-analyse.
+* Constitution du matériel : (i) rédiger un schéma et guide d’annotation à partir de la cartographie et des pré-analyses (rigoureux mais large) ; (ii) rédiger un guide d’analyse ; (iii) préparer le matériel d’annotation.
 2. Une première annotation :
-  a. Première réunion : (i) se rencontrer toustes et expliquer l’organisation (calendrier, discord, règles) ; (ii) donner des indications techniques et présenter le schéma d’annotation ; (iiif) se poser sur la réflexivité, la critique et le travail émotionnel.
-  b. Annotation : (i) prendre connaissance du matériel ; (ii) annoter.
-  c. Deuxième réunion : (i) mesurer l’accord inter-annotateurice ; (ii) discuter du schéma (doutes, désaccords, ajouts) ; (iii) mettre en place un nouveau schéma d’annotation.
-  d. Une deuxième annotation : annotation puis troisième réunion sous le modèle de la deuxième.
-  e. Une éventuelle troisième annotation : même idée.
-  f. Une réunion post-annotation : retour réflexif sur la campagne d’annotation (comme ça va ? critiques et remarques à faire ? qu’est-ce qu’on en retient ?)
-  g. Toute la campagne sera ponctuée d’éventuelles réunions (à un ou plusieurs) et de discussions modérées sur un serveur discord et guidée par un carnet de bord collectif et individuels.
+* Première réunion : (i) se rencontrer toustes et expliquer l’organisation (calendrier, discord, règles) ; (ii) donner des indications techniques et présenter le schéma d’annotation ; (iiif) se poser sur la réflexivité, la critique et le travail émotionnel.
+* Annotation : (i) prendre connaissance du matériel ; (ii) annoter.
+* Deuxième réunion : (i) mesurer l’accord inter-annotateurice ; (ii) discuter du schéma (doutes, désaccords, ajouts) ; (iii) mettre en place un nouveau schéma d’annotation.
+* Une deuxième annotation : annotation puis troisième réunion sous le modèle de la deuxième.
+* Une éventuelle troisième annotation : même idée.
+* Une réunion post-annotation : retour réflexif sur la campagne d’annotation (comme ça va ? critiques et remarques à faire ? qu’est-ce qu’on en retient ?)
+* Toute la campagne sera ponctuée d’éventuelles réunions (à un ou plusieurs) et de discussions modérées sur un serveur discord et guidée par un carnet de bord collectif et individuels.
 
 Pour plus d'informations, vous pouvez contacter Ariane [arobert(@)unisa.it].
 
